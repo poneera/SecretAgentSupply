@@ -1,0 +1,31 @@
+
+
+header {
+	display: flex;
+	position: fixed;
+}
+
+.product {
+	width: 200px;
+	height: 300px;
+	display: flex;
+
+}
+
+.main-banner {
+	background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/moto.jpeg);
+}
+body {
+	background-color: black;
+	color: white;
+}
+
+
+.flex-containter {
+	display: flex;
+	justify-content: flex-start;
+}
+
+footer {
+	text-align: left;
+}
